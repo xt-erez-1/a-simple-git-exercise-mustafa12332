@@ -1,7 +1,7 @@
 I like to eat: <XXXX Your favorite food here>
 I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+My hobby is computer programming .
 
-I would like to travel to <XXXX>.
+I would like to travel to United States.
 
-"<XXXX Your favorite quote goes here>".
+"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie.
